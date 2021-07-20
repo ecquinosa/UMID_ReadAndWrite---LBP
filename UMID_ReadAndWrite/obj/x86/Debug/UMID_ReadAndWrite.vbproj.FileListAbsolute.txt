@@ -1,0 +1,24 @@
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.vbprojResolveAssemblyReference.cache
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.vbproj.GenerateResource.Cache
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\bin\Debug\UMID_ReadAndWrite.exe.config
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\bin\Debug\UMID_ReadAndWrite.exe
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\bin\Debug\UMID_ReadAndWrite.pdb
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Main.resources
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Resources.resources
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.ChipData.resources
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Setting.resources
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Write.resources
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.exe
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.pdb
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\bin\Debug\UMID_ReadAndWrite.exe.config
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.exe
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.pdb
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\bin\Debug\UMID_ReadAndWrite.exe
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\bin\Debug\UMID_ReadAndWrite.pdb
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.vbprojResolveAssemblyReference.cache
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Main.resources
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Resources.resources
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.ChipData.resources
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Setting.resources
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Write.resources
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.vbproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+HOW TO:
+1. Double click UMID_ReadAndWrite.exe
+2. On first use, go to SETTINGS and set the card reader and sam accordingly (card reader driver should be installed prior to using the app). Click Save button.
+3. Go to Chip Data, select the desired elements and sectors to view then click Save button
+4. Click READ CARD button

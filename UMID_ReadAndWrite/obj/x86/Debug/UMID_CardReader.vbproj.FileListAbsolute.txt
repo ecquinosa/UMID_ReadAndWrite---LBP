@@ -1,0 +1,59 @@
+c:\users\ncjaluag\documents\visual studio 2010\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ncjaluag\documents\visual studio 2010\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.Form1.resources
+c:\users\ncjaluag\documents\visual studio 2010\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.Resources.resources
+c:\users\ncjaluag\documents\visual studio 2010\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ncjaluag\documents\visual studio 2010\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ncjaluag\documents\visual studio 2010\Projects\UMID_CardReader\UMID_CardReader\bin\Debug\UMID_CardReader.exe.config
+c:\users\ncjaluag\documents\visual studio 2010\Projects\UMID_CardReader\UMID_CardReader\bin\Debug\UMID_CardReader.exe
+c:\users\ncjaluag\documents\visual studio 2010\Projects\UMID_CardReader\UMID_CardReader\bin\Debug\UMID_CardReader.pdb
+c:\users\ncjaluag\documents\visual studio 2010\Projects\UMID_CardReader\UMID_CardReader\bin\Debug\UMID_CardReader.xml
+c:\users\ncjaluag\documents\visual studio 2010\Projects\UMID_CardReader\UMID_CardReader\bin\Debug\ClassWinsCard.dll
+c:\users\ncjaluag\documents\visual studio 2010\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.exe
+c:\users\ncjaluag\documents\visual studio 2010\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.xml
+c:\users\ncjaluag\documents\visual studio 2010\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.pdb
+C:\Users\ncjaluag\Documents\Visual Studio 2010\Projects\UMID_CardReader\UMID_CardReader\bin\Debug\UMIDLibrary.dll
+O:\UMID_CardReader\UMID_CardReader\bin\Debug\UMID_CardReader.exe.config
+O:\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.exe
+O:\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.xml
+O:\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.pdb
+D:\EDEL\ACC\Projects\UMID_CardReader\UMID_CardReader\bin\Debug\UMID_CardReader.exe.config
+D:\EDEL\ACC\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.exe
+D:\EDEL\ACC\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.xml
+D:\EDEL\ACC\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.pdb
+D:\EDEL\ACC\Projects\UMID_CardReader\UMID_CardReader\bin\Debug\UMID_CardReader.exe
+D:\EDEL\ACC\Projects\UMID_CardReader\UMID_CardReader\bin\Debug\UMID_CardReader.pdb
+D:\EDEL\ACC\Projects\UMID_CardReader\UMID_CardReader\bin\Debug\UMID_CardReader.xml
+D:\EDEL\ACC\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.vbprojResolveAssemblyReference.cache
+D:\EDEL\ACC\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.Form1.resources
+D:\EDEL\ACC\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.Resources.resources
+D:\EDEL\ACC\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.vbproj.GenerateResource.Cache
+D:\EDEL\ACC\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.Main.resources
+D:\EDEL\ACC\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.Settings.resources
+D:\EDEL\ACC\Projects\UMID_CardReader\UMID_CardReader\bin\Debug\ClassWinsCard.dll
+E:\Projects\UMID_CardReader\UMID_CardReader\bin\Debug\UMID_CardReader.exe.config
+E:\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.exe
+E:\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.xml
+E:\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.pdb
+E:\Projects\UMID_CardReader\UMID_CardReader\bin\Debug\UMID_CardReader.exe
+E:\Projects\UMID_CardReader\UMID_CardReader\bin\Debug\UMID_CardReader.pdb
+E:\Projects\UMID_CardReader\UMID_CardReader\bin\Debug\UMID_CardReader.xml
+E:\Projects\UMID_CardReader\UMID_CardReader\bin\Debug\ClassWinsCard.dll
+E:\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.vbprojResolveAssemblyReference.cache
+E:\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.Main.resources
+E:\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.Resources.resources
+E:\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.Settings.resources
+E:\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.vbproj.GenerateResource.Cache
+F:\Projects\UMID_CardReader\UMID_CardReader\bin\Debug\UMID_CardReader.exe.config
+F:\Projects\UMID_CardReader\UMID_CardReader\bin\Debug\UMID_CardReader.exe
+F:\Projects\UMID_CardReader\UMID_CardReader\bin\Debug\UMID_CardReader.pdb
+F:\Projects\UMID_CardReader\UMID_CardReader\bin\Debug\UMID_CardReader.xml
+F:\Projects\UMID_CardReader\UMID_CardReader\bin\Debug\ClassWinsCard.dll
+F:\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.vbprojResolveAssemblyReference.cache
+F:\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.Main.resources
+F:\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.Resources.resources
+F:\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.Settings.resources
+F:\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.vbproj.GenerateResource.Cache
+F:\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.vbproj.CoreCompileInputs.cache
+F:\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.exe
+F:\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.xml
+F:\Projects\UMID_CardReader\UMID_CardReader\obj\x86\Debug\UMID_CardReader.pdb
